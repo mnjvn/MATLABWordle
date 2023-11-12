@@ -1,1 +1,18 @@
 # MATLABWordle
+An offline Worlde clone using default MATLAB functionality.
+
+# Instillation / Compiling
+
+* Prerequisites
+  - MATLAB R2022b
+  - BASH (Optional)
+  - GIT (Optional)
+
+```
+$ git clone https://github.com/mnjvn/MATLABWordle.git
+$ cd MATLABWordle
+$ ./run.sh
+```
+
+# Author
+Manjeevan Bhullar

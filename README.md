@@ -1,5 +1,5 @@
 # MATLABWordle
-An offline Worlde clone using default MATLAB functionality.
+An offline Wordle clone using default MATLAB functionality.
 
 # Instillation / Running
 

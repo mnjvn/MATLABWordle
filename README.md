@@ -1,7 +1,7 @@
 # MATLABWordle
 An offline Worlde clone using default MATLAB functionality.
 
-# Instillation / Compiling
+# Instillation / Running
 
 * Prerequisites
   - MATLAB R2022b

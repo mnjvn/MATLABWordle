@@ -11,6 +11,7 @@ An offline Worlde clone using default MATLAB functionality.
 ```
 $ git clone https://github.com/mnjvn/MATLABWordle.git
 $ cd MATLABWordle
+$ chmod u+x run.sh
 $ ./run.sh
 ```
 
